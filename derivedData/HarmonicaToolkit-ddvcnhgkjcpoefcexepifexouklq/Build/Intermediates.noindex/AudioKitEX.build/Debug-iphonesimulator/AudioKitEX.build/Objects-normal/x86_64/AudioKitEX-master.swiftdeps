@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "1cc8093050cae6dc730febeeac1916c29ac2cf9b50d4261058b5f8d900e5e865"
+build_start_time: [1651549556, 221086025]
+build_end_time: [1651549564, 267859935]
+inputs:
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/AudioKitAU.swift"
+  : [1643052903, 193436622]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Automation/AutomationCurve.swift"
+  : [1643052903, 194056510]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Automation/NodeParameter+Automation.swift"
+  : [1643052903, 194598913]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Automation/ParameterAutomation.swift"
+  : [1643052903, 195225715]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Node+AudioKitAU.swift"
+  : [1643052903, 195836305]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Node+Triggerable.swift"
+  : [1643052903, 196352005]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Nodes/CallbackInstrument.swift"
+  : [1643052903, 197016000]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Nodes/Fader.swift"
+  : [1643052903, 197727680]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Nodes/StereoFieldLimiter.swift"
+  : [1643052903, 198451995]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Sequencing/Sequence.swift"
+  : [1643052903, 199177265]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Sequencing/Sequencer.swift"
+  : [1643052903, 200936079]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/AudioKitEX/Sequencing/SequencerTrack.swift"
+  : [1643052903, 201707839]

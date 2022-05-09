@@ -1,0 +1,4 @@
+module Stk {
+umbrella header "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/STKAudioKit/Sources/Stk/include/Stk.h"
+export *
+}

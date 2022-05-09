@@ -1,0 +1,1756 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "AVFoundation",
+      "printedName": "AVFoundation",
+      "declKind": "Import",
+      "moduleName": "STKAudioKit"
+    },
+    {
+      "kind": "Import",
+      "name": "AudioKit",
+      "printedName": "AudioKit",
+      "declKind": "Import",
+      "moduleName": "STKAudioKit"
+    },
+    {
+      "kind": "Import",
+      "name": "AudioKitEX",
+      "printedName": "AudioKitEX",
+      "declKind": "Import",
+      "moduleName": "STKAudioKit"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "STKAudioKit"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "STKAudioKit"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "STKBase",
+      "printedName": "STKBase",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "connections",
+          "printedName": "connections",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[AudioKit.Node]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Node",
+                  "printedName": "AudioKit.Node",
+                  "usr": "s:8AudioKit4NodeP"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11STKAudioKit7STKBaseC11connectionsSay05AudioB04Node_pGvp",
+          "mangledName": "$s11STKAudioKit7STKBaseC11connectionsSay05AudioB04Node_pGvp",
+          "moduleName": "STKAudioKit",
+          "isOpen": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[AudioKit.Node]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Node",
+                      "printedName": "AudioKit.Node",
+                      "usr": "s:8AudioKit4NodeP"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11STKAudioKit7STKBaseC11connectionsSay05AudioB04Node_pGvg",
+              "mangledName": "$s11STKAudioKit7STKBaseC11connectionsSay05AudioB04Node_pGvg",
+              "moduleName": "STKAudioKit",
+              "isOpen": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "avAudioNode",
+          "printedName": "avAudioNode",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AVAudioNode",
+              "printedName": "AVFAudio.AVAudioNode",
+              "usr": "c:objc(cs)AVAudioNode"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvp",
+          "mangledName": "$s11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvp",
+          "moduleName": "STKAudioKit",
+          "isOpen": true,
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AVAudioNode",
+                  "printedName": "AVFAudio.AVAudioNode",
+                  "usr": "c:objc(cs)AVAudioNode"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvg",
+              "mangledName": "$s11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvg",
+              "moduleName": "STKAudioKit",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "AVAudioNode",
+                  "printedName": "AVFAudio.AVAudioNode",
+                  "usr": "c:objc(cs)AVAudioNode"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvs",
+              "mangledName": "$s11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0Cvs",
+              "moduleName": "STKAudioKit",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0CvM",
+              "mangledName": "$s11STKAudioKit7STKBaseC11avAudioNodeSo07AVAudioF0CvM",
+              "moduleName": "STKAudioKit",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "STKBase",
+              "printedName": "STKAudioKit.STKBase",
+              "usr": "s:11STKAudioKit7STKBaseC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit7STKBaseCyACSScfc",
+          "mangledName": "$s11STKAudioKit7STKBaseCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit7STKBaseC",
+      "mangledName": "$s11STKAudioKit7STKBaseC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Clarinet",
+      "printedName": "Clarinet",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Clarinet",
+              "printedName": "STKAudioKit.Clarinet",
+              "usr": "s:11STKAudioKit8ClarinetC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit8ClarinetCACycfc",
+          "mangledName": "$s11STKAudioKit8ClarinetCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Clarinet",
+              "printedName": "STKAudioKit.Clarinet",
+              "usr": "s:11STKAudioKit8ClarinetC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit8ClarinetCyACSScfc",
+          "mangledName": "$s11STKAudioKit8ClarinetCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit8ClarinetC",
+      "mangledName": "$s11STKAudioKit8ClarinetC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Flute",
+      "printedName": "Flute",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Flute",
+              "printedName": "STKAudioKit.Flute",
+              "usr": "s:11STKAudioKit5FluteC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit5FluteCACycfc",
+          "mangledName": "$s11STKAudioKit5FluteCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Flute",
+              "printedName": "STKAudioKit.Flute",
+              "usr": "s:11STKAudioKit5FluteC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit5FluteCyACSScfc",
+          "mangledName": "$s11STKAudioKit5FluteCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit5FluteC",
+      "mangledName": "$s11STKAudioKit5FluteC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "MandolinString",
+      "printedName": "MandolinString",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MandolinString",
+              "printedName": "STKAudioKit.MandolinString",
+              "usr": "s:11STKAudioKit14MandolinStringC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit14MandolinStringCACycfc",
+          "mangledName": "$s11STKAudioKit14MandolinStringCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MandolinString",
+              "printedName": "STKAudioKit.MandolinString",
+              "usr": "s:11STKAudioKit14MandolinStringC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit14MandolinStringCyACSScfc",
+          "mangledName": "$s11STKAudioKit14MandolinStringCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit14MandolinStringC",
+      "mangledName": "$s11STKAudioKit14MandolinStringC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "RhodesPianoKey",
+      "printedName": "RhodesPianoKey",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "RhodesPianoKey",
+              "printedName": "STKAudioKit.RhodesPianoKey",
+              "usr": "s:11STKAudioKit14RhodesPianoKeyC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit14RhodesPianoKeyCACycfc",
+          "mangledName": "$s11STKAudioKit14RhodesPianoKeyCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "RhodesPianoKey",
+              "printedName": "STKAudioKit.RhodesPianoKey",
+              "usr": "s:11STKAudioKit14RhodesPianoKeyC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit14RhodesPianoKeyCyACSScfc",
+          "mangledName": "$s11STKAudioKit14RhodesPianoKeyCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit14RhodesPianoKeyC",
+      "mangledName": "$s11STKAudioKit14RhodesPianoKeyC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Shaker",
+      "printedName": "Shaker",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Shaker",
+              "printedName": "STKAudioKit.Shaker",
+              "usr": "s:11STKAudioKit6ShakerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit6ShakerCACycfc",
+          "mangledName": "$s11STKAudioKit6ShakerCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Shaker",
+              "printedName": "STKAudioKit.Shaker",
+              "usr": "s:11STKAudioKit6ShakerC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit6ShakerCyACSScfc",
+          "mangledName": "$s11STKAudioKit6ShakerCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "trigger",
+          "printedName": "trigger(type:amplitude:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ShakerType",
+              "printedName": "STKAudioKit.ShakerType",
+              "usr": "s:11STKAudioKit10ShakerTypeO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Double",
+              "printedName": "Swift.Double",
+              "hasDefaultArg": true,
+              "usr": "s:Sd"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:11STKAudioKit6ShakerC7trigger4type9amplitudeyAA0C4TypeO_SdtF",
+          "mangledName": "$s11STKAudioKit6ShakerC7trigger4type9amplitudeyAA0C4TypeO_SdtF",
+          "moduleName": "STKAudioKit",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit6ShakerC",
+      "mangledName": "$s11STKAudioKit6ShakerC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "TubularBells",
+      "printedName": "TubularBells",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "TubularBells",
+              "printedName": "STKAudioKit.TubularBells",
+              "usr": "s:11STKAudioKit12TubularBellsC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit12TubularBellsCACycfc",
+          "mangledName": "$s11STKAudioKit12TubularBellsCACycfc",
+          "moduleName": "STKAudioKit",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "TubularBells",
+              "printedName": "STKAudioKit.TubularBells",
+              "usr": "s:11STKAudioKit12TubularBellsC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit12TubularBellsCyACSScfc",
+          "mangledName": "$s11STKAudioKit12TubularBellsCyACSScfc",
+          "moduleName": "STKAudioKit",
+          "overriding": true,
+          "implicit": true,
+          "declAttributes": [
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11STKAudioKit12TubularBellsC",
+      "mangledName": "$s11STKAudioKit12TubularBellsC",
+      "moduleName": "STKAudioKit",
+      "isOpen": true,
+      "superclassUsr": "s:11STKAudioKit7STKBaseC",
+      "superclassNames": [
+        "STKAudioKit.STKBase"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Node",
+          "printedName": "Node",
+          "usr": "s:8AudioKit4NodeP",
+          "mangledName": "$s8AudioKit4NodeP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "MIDITriggerable",
+          "printedName": "MIDITriggerable",
+          "usr": "s:10AudioKitEX15MIDITriggerableP",
+          "mangledName": "$s10AudioKitEX15MIDITriggerableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ShakerType",
+      "printedName": "ShakerType",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "maraca",
+          "printedName": "maraca",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6maracayA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6maracayA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "cabasa",
+          "printedName": "cabasa",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6cabasayA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6cabasayA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Var",
+          "name": "sekere",
+          "printedName": "sekere",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6sekereyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6sekereyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 2
+        },
+        {
+          "kind": "Var",
+          "name": "tambourine",
+          "printedName": "tambourine",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO10tambourineyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO10tambourineyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 3
+        },
+        {
+          "kind": "Var",
+          "name": "sleighBells",
+          "printedName": "sleighBells",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO11sleighBellsyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO11sleighBellsyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 4
+        },
+        {
+          "kind": "Var",
+          "name": "bambooChimes",
+          "printedName": "bambooChimes",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO12bambooChimesyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO12bambooChimesyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 5
+        },
+        {
+          "kind": "Var",
+          "name": "sandPaper",
+          "printedName": "sandPaper",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO9sandPaperyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO9sandPaperyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 6
+        },
+        {
+          "kind": "Var",
+          "name": "sodaCan",
+          "printedName": "sodaCan",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO7sodaCanyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO7sodaCanyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 7
+        },
+        {
+          "kind": "Var",
+          "name": "sticks",
+          "printedName": "sticks",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6sticksyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6sticksyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 8
+        },
+        {
+          "kind": "Var",
+          "name": "crunch",
+          "printedName": "crunch",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6crunchyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6crunchyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 9
+        },
+        {
+          "kind": "Var",
+          "name": "bigRocks",
+          "printedName": "bigRocks",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO8bigRocksyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO8bigRocksyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 10
+        },
+        {
+          "kind": "Var",
+          "name": "littleRocks",
+          "printedName": "littleRocks",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO11littleRocksyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO11littleRocksyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 11
+        },
+        {
+          "kind": "Var",
+          "name": "nextMug",
+          "printedName": "nextMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO7nextMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO7nextMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 12
+        },
+        {
+          "kind": "Var",
+          "name": "pennyInMug",
+          "printedName": "pennyInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO10pennyInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO10pennyInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 13
+        },
+        {
+          "kind": "Var",
+          "name": "nickleInMug",
+          "printedName": "nickleInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO11nickleInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO11nickleInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 14
+        },
+        {
+          "kind": "Var",
+          "name": "dimeInMug",
+          "printedName": "dimeInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO9dimeInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO9dimeInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 15
+        },
+        {
+          "kind": "Var",
+          "name": "quarterInMug",
+          "printedName": "quarterInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO12quarterInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO12quarterInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 16
+        },
+        {
+          "kind": "Var",
+          "name": "francInMug",
+          "printedName": "francInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO10francInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO10francInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 17
+        },
+        {
+          "kind": "Var",
+          "name": "pesoInMug",
+          "printedName": "pesoInMug",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO9pesoInMugyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO9pesoInMugyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 18
+        },
+        {
+          "kind": "Var",
+          "name": "guiro",
+          "printedName": "guiro",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO5guiroyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO5guiroyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 19
+        },
+        {
+          "kind": "Var",
+          "name": "wrench",
+          "printedName": "wrench",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO6wrenchyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO6wrenchyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 20
+        },
+        {
+          "kind": "Var",
+          "name": "waterDrops",
+          "printedName": "waterDrops",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO10waterDropsyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO10waterDropsyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 21
+        },
+        {
+          "kind": "Var",
+          "name": "tunedBambooChimes",
+          "printedName": "tunedBambooChimes",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(STKAudioKit.ShakerType.Type) -> STKAudioKit.ShakerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "STKAudioKit.ShakerType.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ShakerType",
+                      "printedName": "STKAudioKit.ShakerType",
+                      "usr": "s:11STKAudioKit10ShakerTypeO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:11STKAudioKit10ShakerTypeO17tunedBambooChimesyA2CmF",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO17tunedBambooChimesyA2CmF",
+          "moduleName": "STKAudioKit",
+          "fixedbinaryorder": 22
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(rawValue:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "STKAudioKit.ShakerType?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ShakerType",
+                  "printedName": "STKAudioKit.ShakerType",
+                  "usr": "s:11STKAudioKit10ShakerTypeO"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UInt8",
+              "printedName": "Swift.UInt8",
+              "usr": "s:s5UInt8V"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11STKAudioKit10ShakerTypeO8rawValueACSgs5UInt8V_tcfc",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO8rawValueACSgs5UInt8V_tcfc",
+          "moduleName": "STKAudioKit",
+          "implicit": true,
+          "declAttributes": [
+            "Inlinable"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "rawValue",
+          "printedName": "rawValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UInt8",
+              "printedName": "Swift.UInt8",
+              "usr": "s:s5UInt8V"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11STKAudioKit10ShakerTypeO8rawValues5UInt8Vvp",
+          "mangledName": "$s11STKAudioKit10ShakerTypeO8rawValues5UInt8Vvp",
+          "moduleName": "STKAudioKit",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UInt8",
+                  "printedName": "Swift.UInt8",
+                  "usr": "s:s5UInt8V"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11STKAudioKit10ShakerTypeO8rawValues5UInt8Vvg",
+              "mangledName": "$s11STKAudioKit10ShakerTypeO8rawValues5UInt8Vvg",
+              "moduleName": "STKAudioKit",
+              "implicit": true,
+              "declAttributes": [
+                "Inlinable"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:11STKAudioKit10ShakerTypeO",
+      "mangledName": "$s11STKAudioKit10ShakerTypeO",
+      "moduleName": "STKAudioKit",
+      "enumRawTypeName": "UInt8",
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "RawRepresentable",
+          "printedName": "RawRepresentable",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "RawValue",
+              "printedName": "RawValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UInt8",
+                  "printedName": "Swift.UInt8",
+                  "usr": "s:s5UInt8V"
+                }
+              ]
+            }
+          ],
+          "usr": "s:SY",
+          "mangledName": "$sSY"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

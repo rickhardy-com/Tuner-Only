@@ -1,0 +1,4 @@
+module AudioKitUI {
+header "AudioKitUI-Swift.h"
+export *
+}

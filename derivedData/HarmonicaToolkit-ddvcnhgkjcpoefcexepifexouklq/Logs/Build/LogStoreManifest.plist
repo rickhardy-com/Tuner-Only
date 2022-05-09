@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>008A93BC-596A-4CAE-B90E-9306ADE3A14A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>008A93BC-596A-4CAE-B90E-9306ADE3A14A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673202060.48779297</real>
+			<key>timeStoppedRecording</key>
+			<real>673202259.57976305</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>008A93BC-596A-4CAE-B90E-9306ADE3A14A</string>
+		</dict>
+		<key>03D5BB81-2872-4257-BFCB-33F893BE9776</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03D5BB81-2872-4257-BFCB-33F893BE9776.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673241013.63264799</real>
+			<key>timeStoppedRecording</key>
+			<real>673241014.81923997</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>03D5BB81-2872-4257-BFCB-33F893BE9776</string>
+		</dict>
+		<key>46CE151D-D41A-4D96-9636-9286196D25A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46CE151D-D41A-4D96-9636-9286196D25A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673202579.18927896</real>
+			<key>timeStoppedRecording</key>
+			<real>673202580.09035206</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>46CE151D-D41A-4D96-9636-9286196D25A2</string>
+		</dict>
+		<key>55AB29CC-F5ED-46D9-BD97-C23CA1955ABE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55AB29CC-F5ED-46D9-BD97-C23CA1955ABE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673213411.02762496</real>
+			<key>timeStoppedRecording</key>
+			<real>673213412.10278904</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>55AB29CC-F5ED-46D9-BD97-C23CA1955ABE</string>
+		</dict>
+		<key>6330E4D4-D1E4-4114-808B-6E179DF9AEA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6330E4D4-D1E4-4114-808B-6E179DF9AEA6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673125633.49363005</real>
+			<key>timeStoppedRecording</key>
+			<real>673125636.25300395</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>6330E4D4-D1E4-4114-808B-6E179DF9AEA6</string>
+		</dict>
+		<key>8F3DBA74-794E-4A5F-9417-22BD18199A85</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F3DBA74-794E-4A5F-9417-22BD18199A85.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673242136.697245</real>
+			<key>timeStoppedRecording</key>
+			<real>673242558.96114302</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>8F3DBA74-794E-4A5F-9417-22BD18199A85</string>
+		</dict>
+		<key>917FA828-AF37-4516-8C32-4AB89FE5CE29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>917FA828-AF37-4516-8C32-4AB89FE5CE29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673202545.01509202</real>
+			<key>timeStoppedRecording</key>
+			<real>673202565.233024</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>917FA828-AF37-4516-8C32-4AB89FE5CE29</string>
+		</dict>
+		<key>D0F4D29F-1573-4062-8E81-315AE3461BDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0F4D29F-1573-4062-8E81-315AE3461BDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HarmonicaToolkit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cookbook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Cookbook</string>
+			<key>timeStartedRecording</key>
+			<real>673202489.505162</real>
+			<key>timeStoppedRecording</key>
+			<real>673202492.14833605</real>
+			<key>title</key>
+			<string>Build Cookbook</string>
+			<key>uniqueIdentifier</key>
+			<string>D0F4D29F-1573-4062-8E81-315AE3461BDC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

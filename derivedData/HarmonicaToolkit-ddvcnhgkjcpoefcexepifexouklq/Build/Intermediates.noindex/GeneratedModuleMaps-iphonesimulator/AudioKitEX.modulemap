@@ -1,0 +1,4 @@
+module AudioKitEX {
+header "AudioKitEX-Swift.h"
+export *
+}

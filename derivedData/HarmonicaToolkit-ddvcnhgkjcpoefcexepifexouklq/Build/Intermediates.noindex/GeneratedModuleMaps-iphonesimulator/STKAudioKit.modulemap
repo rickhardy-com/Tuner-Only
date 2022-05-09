@@ -1,0 +1,4 @@
+module STKAudioKit {
+header "STKAudioKit-Swift.h"
+export *
+}

@@ -1,0 +1,57 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "1b2fde73ff9f5ac58b29fabf5813d80d3d66c01b87b2fcf4cb0a40268f2f94d7"
+build_start_time: [1651549704, 214087963]
+build_end_time: [1651549709, 641406059]
+inputs:
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Effects/CP+Delay.swift"
+  : [1643052900, 723557472]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Effects/CP+Distortion.swift"
+  : [1643052900, 723932504]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Effects/CP+Filters.swift"
+  : [1643052900, 724378585]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Effects/CP+Reverb.swift"
+  : [1643052900, 725233316]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Generators/DrumSynths.swift"
+  : [1643052900, 725829601]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Generators/Operation+GatedADSREnvelope.swift"
+  : [1643052900, 726253032]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Generators/Operation+Noise.swift"
+  : [1643052900, 726623058]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Generators/Operation+Oscillators.swift"
+  : [1643052900, 726990222]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Generators/Operation+PhysicalModels.swift"
+  : [1643052900, 727370023]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/CP+trackedAmplitude.swift"
+  : [1643052900, 727851867]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/GlobalMathFunctions.swift"
+  : [1643052900, 728249073]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/Operation+Math.swift"
+  : [1643052900, 728608131]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/Operation+RandomNumberGeneration.swift"
+  : [1643052900, 728932380]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/Operation+Save.swift"
+  : [1643052900, 729248523]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Math/Operation+Segments.swift"
+  : [1643052900, 729576826]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/MixingOperations.swift"
+  : [1643052900, 729900360]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Music/Operation+PeriodicTriggers.swift"
+  : [1643052900, 730409622]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Music/Operation+PitchShift.swift"
+  : [1643052900, 730785846]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Music/Operation+Portamento.swift"
+  : [1643052900, 731854677]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Music/Operation+TriggeredWithEnvelope.swift"
+  : [1643052900, 732263803]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Numeric.swift"
+  : [1643052900, 732625484]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Operation.swift"
+  : [1643052900, 733082771]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/OperationEffect.swift"
+  : [1643052900, 733565330]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/OperationGenerator.swift"
+  : [1643052900, 734006881]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/Parameter.swift"
+  : [1643052900, 734389543]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/SporthAudioKit/StereoOperation.swift"
+  : [1643052900, 734765052]

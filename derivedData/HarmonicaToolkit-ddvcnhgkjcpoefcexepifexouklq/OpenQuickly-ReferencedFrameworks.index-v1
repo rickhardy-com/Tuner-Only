@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Cocoa</string>
+	<string>Darwin</string>
+	<string>SporthAudioKit</string>
+	<string>AVFoundation</string>
+	<string>DunneAudioKit</string>
+	<string>AudioKit</string>
+	<string>UIKit</string>
+	<string>MetalKit</string>
+	<string>AudioToolbox</string>
+	<string>AudioKitTests</string>
+	<string>Metal</string>
+	<string>CoreAudioKit</string>
+	<string>AudioKitUI</string>
+	<string>AudioUnit</string>
+	<string>Accelerate</string>
+	<string>CoreData</string>
+	<string>those</string>
+	<string>CSporthAudioKit</string>
+	<string>AudioKitEX</string>
+	<string>SwiftUI</string>
+	<string>libkern</string>
+	<string>CDunneAudioKit</string>
+	<string>PackageDescription</string>
+	<string>CoreAudio</string>
+	<string>XCTest</string>
+	<string>CryptoKit</string>
+	<string>Foundation</string>
+	<string>QuartzCore</string>
+	<string>os</string>
+	<string>SoundpipeAudioKit</string>
+	<string>CoreMIDI</string>
+	<string>AudioKitUITests</string>
+	<string>GameplayKit</string>
+	<string>AppKit</string>
+	<string>CoreGraphics</string>
+	<string>CSoundpipeAudioKit</string>
+	<string>CAudioKitEX</string>
+	<string>STKAudioKit</string>
+</array>
+</plist>

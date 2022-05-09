@@ -1,0 +1,4 @@
+module DunneAudioKit {
+header "DunneAudioKit-Swift.h"
+export *
+}

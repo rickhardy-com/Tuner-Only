@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "977175eb5e01278b72b27862e23e21dcf9f71a1bb7d5a1217cf5ae81238774fa"
+build_start_time: [1651549710, 170768976]
+build_end_time: [1651549745, 480978965]
+inputs:
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/AppDelegate.swift": [1642849763, 192056179]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/ContentView.swift": [1643652032, 712988376]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/Reusable Components/SceneDelegate.swift": [1643050051, 242203474]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/SplashView.swift": [1643218051, 962151050]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/SwiftUIView.swift": [1644422664, 59099197]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/Tuner.swift": [1644422255, 418832778]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/Cookbook/setStructure.swift": [1644420900, 601615428]
+  "/Users/richardhardy/Documents/IPhoneApps/Tuner Only/harmonicaView.swift": [1644425620, 816701889]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/SwiftUIView2.swift"
+  : [1644422525, 138836860]

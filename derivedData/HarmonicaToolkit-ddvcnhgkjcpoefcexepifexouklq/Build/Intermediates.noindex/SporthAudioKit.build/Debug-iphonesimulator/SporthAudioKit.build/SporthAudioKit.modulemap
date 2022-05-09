@@ -1,0 +1,4 @@
+module SporthAudioKit {
+header "SporthAudioKit-Swift.h"
+export *
+}

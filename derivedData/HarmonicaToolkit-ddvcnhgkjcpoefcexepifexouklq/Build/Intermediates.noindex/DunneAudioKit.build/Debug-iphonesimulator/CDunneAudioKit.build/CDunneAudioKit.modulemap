@@ -1,0 +1,4 @@
+module CDunneAudioKit {
+umbrella header "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/CDunneAudioKit/include/CDunneAudioKit.h"
+export *
+}

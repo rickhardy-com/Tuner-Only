@@ -1,0 +1,4 @@
+module Soundpipe {
+umbrella header "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SoundpipeAudioKit/Sources/Soundpipe/include/Soundpipe.h"
+export *
+}

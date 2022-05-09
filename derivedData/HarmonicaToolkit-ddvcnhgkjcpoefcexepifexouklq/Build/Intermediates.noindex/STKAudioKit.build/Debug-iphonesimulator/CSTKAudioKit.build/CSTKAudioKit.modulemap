@@ -1,0 +1,4 @@
+module CSTKAudioKit {
+umbrella header "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/STKAudioKit/Sources/CSTKAudioKit/include/CSTKAudioKit.h"
+export *
+}

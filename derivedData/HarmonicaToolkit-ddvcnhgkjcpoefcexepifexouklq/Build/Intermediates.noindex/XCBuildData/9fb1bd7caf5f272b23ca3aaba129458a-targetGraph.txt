@@ -1,0 +1,94 @@
+Target dependency graph (26 targets)
+AudioKit in AudioKit, no dependencies
+AudioKit in AudioKit, depends on:
+AudioKit in AudioKit (explicit)
+KissFFT in KissFFT, no dependencies
+KissFFT in KissFFT, depends on:
+KissFFT in KissFFT (explicit)
+Soundpipe in SoundpipeAudioKit, depends on:
+KissFFT in KissFFT (explicit)
+CAudioKitEX in AudioKitEX, no dependencies
+AudioKitEX in AudioKitEX, depends on:
+CAudioKitEX in AudioKitEX (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX, depends on:
+AudioKitEX in AudioKitEX (explicit)
+CAudioKitEX in AudioKitEX (explicit)
+AudioKit in AudioKit (explicit)
+CSoundpipeAudioKit in SoundpipeAudioKit, depends on:
+Soundpipe in SoundpipeAudioKit (explicit)
+KissFFT in KissFFT (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit, depends on:
+Soundpipe in SoundpipeAudioKit (explicit)
+CSoundpipeAudioKit in SoundpipeAudioKit (explicit)
+KissFFT in KissFFT (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit, depends on:
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+Soundpipe in SoundpipeAudioKit (explicit)
+CSoundpipeAudioKit in SoundpipeAudioKit (explicit)
+KissFFT in KissFFT (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+Sporth in SporthAudioKit, depends on:
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+CSporthAudioKit in SporthAudioKit, depends on:
+Sporth in SporthAudioKit (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+SporthAudioKit in SporthAudioKit, depends on:
+Sporth in SporthAudioKit (explicit)
+CSporthAudioKit in SporthAudioKit (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+SporthAudioKit in SporthAudioKit, depends on:
+SporthAudioKit in SporthAudioKit (explicit)
+Sporth in SporthAudioKit (explicit)
+CSporthAudioKit in SporthAudioKit (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+STKAudioKit_Stk in STKAudioKit, no dependencies
+Stk in STKAudioKit, depends on:
+STKAudioKit_Stk in STKAudioKit (explicit)
+CSTKAudioKit in STKAudioKit, depends on:
+Stk in STKAudioKit (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+STKAudioKit in STKAudioKit, depends on:
+Stk in STKAudioKit (explicit)
+CSTKAudioKit in STKAudioKit (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+STKAudioKit in STKAudioKit, depends on:
+STKAudioKit in STKAudioKit (explicit)
+Stk in STKAudioKit (explicit)
+CSTKAudioKit in STKAudioKit (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+AudioKitUI in AudioKitUI, depends on:
+AudioKit in AudioKit (explicit)
+AudioKitUI in AudioKitUI, depends on:
+AudioKitUI in AudioKitUI (explicit)
+AudioKit in AudioKit (explicit)
+CDunneAudioKit in DunneAudioKit, depends on:
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+KissFFT in KissFFT (explicit)
+DunneAudioKit in DunneAudioKit, depends on:
+CDunneAudioKit in DunneAudioKit (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+KissFFT in KissFFT (explicit)
+DunneAudioKit in DunneAudioKit, depends on:
+DunneAudioKit in DunneAudioKit (explicit)
+CDunneAudioKit in DunneAudioKit (explicit)
+AudioKit in AudioKit (explicit)
+AudioKitEX in AudioKitEX (explicit)
+KissFFT in KissFFT (explicit)
+HarmonicaToolkit in HarmonicaToolkit, depends on:
+AudioKit in AudioKit (explicit)
+SporthAudioKit in SporthAudioKit (explicit)
+SoundpipeAudioKit in SoundpipeAudioKit (explicit)
+STKAudioKit in STKAudioKit (explicit)
+AudioKitUI in AudioKitUI (explicit)
+DunneAudioKit in DunneAudioKit (explicit)

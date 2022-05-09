@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "d8413f501ac4990d2410fbd71e74978dbb48969d2db88e0d10997f6345151942"
+build_start_time: [1651549684, 273233890]
+build_end_time: [1651549696, 29365062]
+inputs:
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/Chorus.swift"
+  : [1643052902, 330723762]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/Flanger.swift"
+  : [1643052902, 331140756]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/Sampler+SFZ.swift"
+  : [1643052902, 331570386]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/Sampler.swift"
+  : [1643052902, 332250356]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/StereoDelay.swift"
+  : [1643052902, 332873821]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/Synth.swift"
+  : [1643052902, 333362102]
+  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/DunneAudioKit/Sources/DunneAudioKit/TransientShaper.swift"
+  : [1643052902, 333771228]
