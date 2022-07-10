@@ -12,6 +12,7 @@
 		176E7F1E25380CAF00602020 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 176E7F1D25380CAF00602020 /* Colors.xcassets */; };
 		176E7F2C253A13AB00602020 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176E7F2B253A13AA00602020 /* SplashView.swift */; };
 		1D0F216428721DB4001A645A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0F216328721DB4001A645A /* SceneDelegate.swift */; };
+		1D72E798287B5AD30057C36E /* Examples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D72E797287B5AD30057C36E /* Examples.swift */; };
 		1DB54A58286E364800AE5FF0 /* Wingdings2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DB54A57286E364800AE5FF0 /* Wingdings2.ttf */; };
 		1DDBD39E2879AAB1008FCEC6 /* setupParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDBD39D2879AAB1008FCEC6 /* setupParams.swift */; };
 		1DE536B22868A19F001FB927 /* ButtonDefns2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1DE536B12868A19F001FB927 /* ButtonDefns2.plist */; };
@@ -43,6 +44,7 @@
 		176E7F1D25380CAF00602020 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		176E7F2B253A13AA00602020 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		1D0F216328721DB4001A645A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1D72E797287B5AD30057C36E /* Examples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Examples.swift; sourceTree = "<group>"; };
 		1DB54A57286E364800AE5FF0 /* Wingdings2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Wingdings2.ttf; sourceTree = "<group>"; };
 		1DC30EB62871E8CA00818199 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		1DDBD39D2879AAB1008FCEC6 /* setupParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = setupParams.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				C446DEA12528D9CA00138D0A /* Tuner.swift */,
 				176E7F2B253A13AA00602020 /* SplashView.swift */,
 				C446DE4B2528D8E600138D0A /* ContentView.swift */,
+				1D72E797287B5AD30057C36E /* Examples.swift */,
 				C4A2F2C3253D45D4007C1032 /* HarmonicaToolkit.entitlements */,
 				C446DE4D2528D8E700138D0A /* Assets.xcassets */,
 				176E7F1D25380CAF00602020 /* Colors.xcassets */,
@@ -274,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D72E798287B5AD30057C36E /* Examples.swift in Sources */,
 				C446DE482528D8E600138D0A /* AppDelegate.swift in Sources */,
 				1D0F216428721DB4001A645A /* SceneDelegate.swift in Sources */,
 				C446DF032528D9CA00138D0A /* Tuner.swift in Sources */,
