@@ -109,7 +109,7 @@ class ViewController3: UIViewController {
     //private let AUTO_PLIST_BUTTONDEFNS_KEY_WINGDINGS = "wingDings"   // wingDings
     //private let AUTO_PLIST_BUTTONDEFNS_KEY_BACKGROUND = "background"   // background
     
-    
+/*
 class hvci: UIViewController {
         
     //@StateObject var conductor2 = TunerConductor()
@@ -144,7 +144,7 @@ class hvci: UIViewController {
     
     let AUTO_PLIST_NOTES_PATH = Bundle.main.path(forResource: "Notes", ofType: "plist")
     let AUTO_PLIST_BUTTONDEFNS_PATH = Bundle.main.path(forResource: "ButtonDefns", ofType: "plist")
-    let AUTO_PLIST_BUTTONDEFNS_KEY_BUTTON = "button"   // button
+    let AUTO_PLIST_BUTTONDEFNS_KEY_BUTTON = "button"   // name of button field in dictionary
     let AUTO_PLIST_BUTTONDEFNS_KEY_OFFSET = "offset"   // offset
     let AUTO_PLIST_BUTTONDEFNS_KEY_WINGDINGS = "wingDings"   // wingDings
     let AUTO_PLIST_BUTTONDEFNS_KEY_BACKGROUND = "background"   // background
@@ -203,6 +203,7 @@ class hvci: UIViewController {
         }
         return _buttonDefnss
     }
+ 
 
     func actionButton   ( withColor color:UIColor,
                           titleColor:UIColor,
@@ -264,6 +265,8 @@ class hvci: UIViewController {
         }
         return _notes
     }
+ */
+/*
     
     func displayKeyboard() -> [[UIButton]]  {
 
@@ -741,5 +744,6 @@ class hvci: UIViewController {
 
         
 
-
+ 
 }
+*/

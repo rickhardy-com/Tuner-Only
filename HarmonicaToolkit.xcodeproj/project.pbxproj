@@ -11,13 +11,13 @@
 		0779C7B326B9FFB50086DA18 /* AudioKit in Frameworks */ = {isa = PBXBuildFile; productRef = 0779C7B226B9FFB50086DA18 /* AudioKit */; };
 		176E7F1E25380CAF00602020 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 176E7F1D25380CAF00602020 /* Colors.xcassets */; };
 		176E7F2C253A13AB00602020 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176E7F2B253A13AA00602020 /* SplashView.swift */; };
+		1D0F216428721DB4001A645A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0F216328721DB4001A645A /* SceneDelegate.swift */; };
+		1DB54A58286E364800AE5FF0 /* Wingdings2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DB54A57286E364800AE5FF0 /* Wingdings2.ttf */; };
+		1DDBD39E2879AAB1008FCEC6 /* setupParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DDBD39D2879AAB1008FCEC6 /* setupParams.swift */; };
+		1DE536B22868A19F001FB927 /* ButtonDefns2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1DE536B12868A19F001FB927 /* ButtonDefns2.plist */; };
+		1DE536B82868C6C8001FB927 /* Notes2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1DE536B72868C6C7001FB927 /* Notes2.plist */; };
 		6350E7CD27A9360200D0F510 /* setStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6350E7CC27A9360200D0F510 /* setStructure.swift */; };
-		6356527627A85FD900C7A407 /* harmonicaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6356527527A85FD800C7A407 /* harmonicaView.swift */; };
-		6357B95727A1693800F69EC9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6357B95627A1693800F69EC9 /* SwiftUIView.swift */; };
-		6357B95927A181DB00F69EC9 /* ButtonDefns.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6357B95827A181DB00F69EC9 /* ButtonDefns.plist */; };
 		6357B95C27A18B3200F69EC9 /* Notes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6357B95B27A18B3200F69EC9 /* Notes.plist */; };
-		63EC0336279F370600B502CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EC0335279F370600B502CB /* SceneDelegate.swift */; };
-		63F66AE427B41CFD0034BA6D /* SwiftUIView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F66AE327B41CFD0034BA6D /* SwiftUIView2.swift */; };
 		C42F77B2258F291B000270CD /* AudioKitUI in Frameworks */ = {isa = PBXBuildFile; productRef = C42F77B1258F291B000270CD /* AudioKitUI */; };
 		C446DE482528D8E600138D0A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C446DE472528D8E600138D0A /* AppDelegate.swift */; };
 		C446DE4C2528D8E600138D0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C446DE4B2528D8E600138D0A /* ContentView.swift */; };
@@ -42,13 +42,14 @@
 /* Begin PBXFileReference section */
 		176E7F1D25380CAF00602020 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		176E7F2B253A13AA00602020 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		1D0F216328721DB4001A645A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1DB54A57286E364800AE5FF0 /* Wingdings2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Wingdings2.ttf; sourceTree = "<group>"; };
+		1DC30EB62871E8CA00818199 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		1DDBD39D2879AAB1008FCEC6 /* setupParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = setupParams.swift; sourceTree = "<group>"; };
+		1DE536B12868A19F001FB927 /* ButtonDefns2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ButtonDefns2.plist; sourceTree = "<group>"; };
+		1DE536B72868C6C7001FB927 /* Notes2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Notes2.plist; path = custom_plists/Notes2.plist; sourceTree = "<group>"; };
 		6350E7CC27A9360200D0F510 /* setStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = setStructure.swift; sourceTree = "<group>"; };
-		6356527527A85FD800C7A407 /* harmonicaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = harmonicaView.swift; sourceTree = "<group>"; };
-		6357B95627A1693800F69EC9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
-		6357B95827A181DB00F69EC9 /* ButtonDefns.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ButtonDefns.plist; sourceTree = "<group>"; };
 		6357B95B27A18B3200F69EC9 /* Notes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Notes.plist; path = custom_plists/Notes.plist; sourceTree = "<group>"; };
-		63EC0335279F370600B502CB /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		63F66AE327B41CFD0034BA6D /* SwiftUIView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SwiftUIView2.swift; path = "../../../Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/SwiftUIView2.swift"; sourceTree = "<group>"; };
 		C446DE442528D8E600138D0A /* HarmonicaToolkit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HarmonicaToolkit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C446DE472528D8E600138D0A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C446DE4B2528D8E600138D0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,8 +90,7 @@
 		C446DE3B2528D8E600138D0A = {
 			isa = PBXGroup;
 			children = (
-				63F66AE327B41CFD0034BA6D /* SwiftUIView2.swift */,
-				6356527527A85FD800C7A407 /* harmonicaView.swift */,
+				1DDBD39D2879AAB1008FCEC6 /* setupParams.swift */,
 				C446DE462528D8E600138D0A /* Cookbook */,
 				C446DE5D2528D8E800138D0A /* Tests */,
 				C474C9C425290C83005EEB80 /* Configuration */,
@@ -111,20 +111,22 @@
 		C446DE462528D8E600138D0A /* Cookbook */ = {
 			isa = PBXGroup;
 			children = (
-				6350E7CC27A9360200D0F510 /* setStructure.swift */,
+				1DC30EB62871E8CA00818199 /* Config.xcconfig */,
+				1DB54A57286E364800AE5FF0 /* Wingdings2.ttf */,
+				1DE536B72868C6C7001FB927 /* Notes2.plist */,
 				6357B95B27A18B3200F69EC9 /* Notes.plist */,
-				6357B95827A181DB00F69EC9 /* ButtonDefns.plist */,
-				C446DEA12528D9CA00138D0A /* Tuner.swift */,
-				6357B95627A1693800F69EC9 /* SwiftUIView.swift */,
-				C4A2F2C3253D45D4007C1032 /* HarmonicaToolkit.entitlements */,
+				1DE536B12868A19F001FB927 /* ButtonDefns2.plist */,
 				C446DE472528D8E600138D0A /* AppDelegate.swift */,
+				1D0F216328721DB4001A645A /* SceneDelegate.swift */,
+				6350E7CC27A9360200D0F510 /* setStructure.swift */,
+				C446DEA12528D9CA00138D0A /* Tuner.swift */,
 				176E7F2B253A13AA00602020 /* SplashView.swift */,
 				C446DE4B2528D8E600138D0A /* ContentView.swift */,
+				C4A2F2C3253D45D4007C1032 /* HarmonicaToolkit.entitlements */,
 				C446DE4D2528D8E700138D0A /* Assets.xcassets */,
 				176E7F1D25380CAF00602020 /* Colors.xcassets */,
 				C446DE522528D8E700138D0A /* LaunchScreen.storyboard */,
 				C446DE552528D8E700138D0A /* Info.plist */,
-				C446DEB02528D9CA00138D0A /* Reusable Components */,
 			);
 			path = Cookbook;
 			sourceTree = "<group>";
@@ -135,14 +137,6 @@
 				C446DE602528D8E800138D0A /* Info.plist */,
 			);
 			path = Tests;
-			sourceTree = "<group>";
-		};
-		C446DEB02528D9CA00138D0A /* Reusable Components */ = {
-			isa = PBXGroup;
-			children = (
-				63EC0335279F370600B502CB /* SceneDelegate.swift */,
-			);
-			path = "Reusable Components";
 			sourceTree = "<group>";
 		};
 		C474C9C425290C83005EEB80 /* Configuration */ = {
@@ -256,11 +250,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DE536B82868C6C8001FB927 /* Notes2.plist in Resources */,
 				176E7F1E25380CAF00602020 /* Colors.xcassets in Resources */,
 				6357B95C27A18B3200F69EC9 /* Notes.plist in Resources */,
+				1DE536B22868A19F001FB927 /* ButtonDefns2.plist in Resources */,
 				C446DE542528D8E700138D0A /* LaunchScreen.storyboard in Resources */,
 				C446DE4E2528D8E700138D0A /* Assets.xcassets in Resources */,
-				6357B95927A181DB00F69EC9 /* ButtonDefns.plist in Resources */,
+				1DB54A58286E364800AE5FF0 /* Wingdings2.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,14 +275,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				C446DE482528D8E600138D0A /* AppDelegate.swift in Sources */,
+				1D0F216428721DB4001A645A /* SceneDelegate.swift in Sources */,
 				C446DF032528D9CA00138D0A /* Tuner.swift in Sources */,
-				6357B95727A1693800F69EC9 /* SwiftUIView.swift in Sources */,
+				1DDBD39E2879AAB1008FCEC6 /* setupParams.swift in Sources */,
 				C446DE4C2528D8E600138D0A /* ContentView.swift in Sources */,
 				176E7F2C253A13AB00602020 /* SplashView.swift in Sources */,
-				63EC0336279F370600B502CB /* SceneDelegate.swift in Sources */,
-				6356527627A85FD900C7A407 /* harmonicaView.swift in Sources */,
 				6350E7CD27A9360200D0F510 /* setStructure.swift in Sources */,
-				63F66AE427B41CFD0034BA6D /* SwiftUIView2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,11 +435,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Cookbook/Cookbook.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 7Y25C5GF6M;
+				ENABLE_HARDENED_RUNTIME = NO;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Cookbook/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Audiokit;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -466,11 +465,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Cookbook/Cookbook.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 7Y25C5GF6M;
+				ENABLE_HARDENED_RUNTIME = NO;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Cookbook/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Audiokit;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -491,7 +495,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9W69ZP8S5F;
+				DEVELOPMENT_TEAM = 7Y25C5GF6M;
 				INFOPLIST_FILE = CookbookTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -513,7 +517,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9W69ZP8S5F;
+				DEVELOPMENT_TEAM = 7Y25C5GF6M;
 				INFOPLIST_FILE = CookbookTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
