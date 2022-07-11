@@ -1,4 +1,0 @@
-module SoundpipeAudioKit {
-header "SoundpipeAudioKit-Swift.h"
-export *
-}

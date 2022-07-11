@@ -1,4 +1,0 @@
-module KissFFT {
-umbrella "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/KissFFT/Sources/KissFFT/include"
-export *
-}

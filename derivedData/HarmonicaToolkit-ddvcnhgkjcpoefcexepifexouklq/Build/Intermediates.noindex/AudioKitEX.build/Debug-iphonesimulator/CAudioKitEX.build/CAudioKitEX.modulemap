@@ -1,4 +1,0 @@
-module CAudioKitEX {
-umbrella "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/AudioKitEX/Sources/CAudioKitEX/include"
-export *
-}

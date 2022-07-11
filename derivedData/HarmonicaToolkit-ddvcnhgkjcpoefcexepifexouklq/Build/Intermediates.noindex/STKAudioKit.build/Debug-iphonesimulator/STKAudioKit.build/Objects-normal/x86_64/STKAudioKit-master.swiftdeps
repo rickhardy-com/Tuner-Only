@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "a59bad9b6b5784daf838e22181c10d712b35d80b0a49431f1b0e5503dce77074"
-build_start_time: [1651549684, 268693923]
-build_end_time: [1651549691, 661984920]
-inputs:
-  ? "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/STKAudioKit/Sources/STKAudioKit/STKPhysicalModels.swift"
-  : [1643052897, 524927377]

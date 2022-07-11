@@ -1,4 +1,0 @@
-module Sporth {
-umbrella header "/Users/richardhardy/Library/Developer/Xcode/DerivedData/HarmonicaToolkit-ddvcnhgkjcpoefcexepifexouklq/SourcePackages/checkouts/SporthAudioKit/Sources/Sporth/include/Sporth.h"
-export *
-}
