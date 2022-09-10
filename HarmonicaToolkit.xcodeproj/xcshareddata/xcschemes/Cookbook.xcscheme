@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C446DE432528D8E600138D0A"
-               BuildableName = "HarmonicaToolkit.app"
-               BlueprintName = "HarmonicaToolkit"
+               BuildableName = "tsdHarmonicaToolkit.app"
+               BlueprintName = "tsdHarmonicaToolkit"
                ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -56,8 +56,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C446DE432528D8E600138D0A"
-            BuildableName = "HarmonicaToolkit.app"
-            BlueprintName = "HarmonicaToolkit"
+            BuildableName = "tsdHarmonicaToolkit.app"
+            BlueprintName = "tsdHarmonicaToolkit"
             ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -73,8 +73,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C446DE432528D8E600138D0A"
-            BuildableName = "HarmonicaToolkit.app"
-            BlueprintName = "HarmonicaToolkit"
+            BuildableName = "tsdHarmonicaToolkit.app"
+            BlueprintName = "tsdHarmonicaToolkit"
             ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
