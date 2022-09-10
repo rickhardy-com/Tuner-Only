@@ -26,7 +26,9 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      language = "en"
+      region = "GB">
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -35,6 +37,16 @@
                BlueprintIdentifier = "C446DE592528D8E800138D0A"
                BuildableName = "HarmonicaToolkitTests.xctest"
                BlueprintName = "HarmonicaToolkitTests"
+               ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1D119C2828CC8149003737C0"
+               BuildableName = "HarmonicaToolkitMockTunerTests.xctest"
+               BlueprintName = "HarmonicaToolkitMockTunerTests"
                ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -61,6 +73,9 @@
             ReferencedContainer = "container:HarmonicaToolkit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <StoreKitConfigurationFileReference
+         identifier = "../../HTK/Store/Products.storekit">
+      </StoreKitConfigurationFileReference>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
