@@ -9,6 +9,7 @@
 ## Build generated
 build/
 DerivedData/
+.git/
 
 ## Various settings
 *.pbxuser
